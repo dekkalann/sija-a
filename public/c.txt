@@ -1,1 +1,2 @@
 Ini File c.txt
+NISN    : 005867****
